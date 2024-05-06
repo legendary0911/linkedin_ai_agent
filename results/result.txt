@@ -1,0 +1,35 @@
+Llama 2 vs Llama 3: The Ultimate Showdown
+
+by [Your Name]
+
+Apr, 2024
+
+The wait is finally over! The highly anticipated Llama 3 has arrived, and it's time to dive into the details. As a keen observer of the AI landscape, I'm excited to share my insights on the differences between Llama 2 and Llama 3.
+
+**Training Data: The Game-Changer**
+
+Llama 3 boasts a massive 15T token dataset, a whopping seven times larger than its predecessor. This significant upgrade is complemented by a four-fold increase in code data, ensuring Llama 3 is better equipped to tackle complex tasks.
+
+**Data Filtering Pipelines: The Secret Sauce**
+
+Meta's advanced data-filtering pipelines, including heuristic filters, NSFW filters, and semantic deduplication approaches, have significantly enhanced data quality. This rigorous process has resulted in a more refined dataset, paving the way for Llama 3's superior performance.
+
+**Scaling Pre-training: The Key to Success**
+
+Meta's innovative approach to scaling pre-training has led to remarkable improvements in Llama 3. Upgrades to post-training methods and fine-tuning have reduced false refusal rates, enhanced alignment, and diversified model responses. These advancements have also boosted capabilities in reasoning and code generation.
+
+**Model Differences: What's Changed?**
+
+While architectural similarities between Llama 2 and Llama 3 are striking, the latter supports a larger context window. This upgrade, combined with a parameter adjustment for rotary embedding, has significantly enhanced Llama 3's performance.
+
+**Tokenizer: The Transition to Tiktoken**
+
+Llama 3's shift to OpenAI's Tiktoken has introduced a ChatFormat class, special tokens, and end-of-turn markers, enabling seamless support for chat-based interactions and dialogue processing.
+
+**Evaluation Set: Putting Llama 3 to the Test**
+
+A new human evaluation set, comprising 1,800 prompts across 12 crucial use cases, has been developed to assess Llama 3's capabilities. This rigorous evaluation process ensures the model is tested to its limits, preventing overfitting and ensuring its readiness for real-world applications.
+
+In conclusion, Llama 3 is a significant upgrade over its predecessor, boasting enhanced training data, advanced data-filtering pipelines, and improved scaling pre-training methods. While architectural similarities remain, the transition to Tiktoken and the introduction of a new evaluation set have further solidified Llama 3's position as a leader in the AI landscape.
+
+What are your thoughts on Llama 3? Share your insights in the comments below!
