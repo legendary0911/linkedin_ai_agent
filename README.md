@@ -1,17 +1,17 @@
-##LnkedIn AI Agent
+## LnkedIn AI Agent
 
-Creating an AI Agent that can automate creating posts and posting it on Linkedin using 
-*Crew AI 
-*Llama 3 
-*Groq 
-*Selenium 
-*Beautifulsoup 
-*Linkedin Scraper 
+Creating an AI Agent that can automate creating posts and posting it on Linkedin using -
+* Crew AI 
+* Llama 3 
+* Groq 
+* Selenium 
+* Beautifulsoup 
+* Linkedin Scraper 
 
 
-for running the -
-1. clone it and install all the dependencies in the requirement.txt file
-2. create a .env file with the following 
+For running the -
+1. Clone it and install all the dependencies in the requirement.txt file
+2. Create a .env file with the following 
    ```
     OPENAI_API_KEY = "open ai key"
     OPENAI_API_BASE = "api base url"
